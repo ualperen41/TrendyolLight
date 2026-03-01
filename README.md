@@ -6,6 +6,10 @@ TrendyolLight, React ve Vite kullanılarak geliştirilmiş, modern ve hızlı bi
 
 ---
 
+## Ekran Görünütüleri
+
+![](./trendyollight.gif)
+
 ## İçindekiler
 - [Proje Amacı](#proje-amacı)
 - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
